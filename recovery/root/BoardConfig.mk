@@ -1,6 +1,6 @@
 LOCAL_PATH := device/Lenovo/tb-8505x
 
-TARGET_BOARD_PLATFORM := mt6735               # From ro.mediatek.platform, but lowercase value
+TARGET_BOARD_PLATFORM := mt6761               # From ro.mediatek.platform, but lowercase value
 TARGET_NO_BOOTLOADER := true
 TARGET_BOOTLOADER_BOARD_NAME := Primo_RX5     # From ro.product.board
 
